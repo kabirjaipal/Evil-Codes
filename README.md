@@ -10,19 +10,8 @@ To use these code snippets, simply browse the repository and find the one that y
 
 ### JavaScript
 
-- [How to reverse a string in JavaScript](./javascript/reverse-string.js)
-- [How to generate a random number in JavaScript](./javascript/generate-random-number.js)
-- [How to check if an array contains a specific value in JavaScript](./javascript/check-array-contains-value.js)
+- [Calculating the size of an object in JavaScript](https://github.com/kabirsingh2004/Evil-Codes/blob/main/sizeofobj.js)
 
-### Python
-
-- [How to read and write CSV files in Python](./python/read-and-write-csv-files.py)
-- [How to find the largest number in a list using Python](./python/find-largest-number-in-list.py)
-
-### Ruby
-
-- [How to generate a random string in Ruby](./ruby/generate-random-string.rb)
-- [How to calculate the factorial of a number in Ruby](./ruby/calculate-factorial.rb)
 
 ## Contributing
 
