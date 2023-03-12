@@ -11,6 +11,7 @@ To use these code snippets, simply browse the repository and find the one that y
 ### JavaScript
 
 - [Calculating the size of an object in JavaScript](https://github.com/kabirsingh2004/Evil-Codes/blob/main/sizeofobj.js)
+- [ Discord Chat Bot Using Chat GPT ](https://github.com/kabirsingh2004/Evil-Codes/blob/main/chatgpt_discordbot.js)
 
 
 ## Contributing
