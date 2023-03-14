@@ -13,6 +13,15 @@ To use these code snippets, simply browse the repository and find the one that y
 - [Calculating the size of an object in JavaScript](https://github.com/kabirsingh2004/Evil-Codes/blob/main/sizeofobj.js)
 - [ Discord Chat Bot Using Chat GPT ](https://github.com/kabirsingh2004/Evil-Codes/blob/main/chatgpt_discordbot.js)
 
+### C/C++
+
+- [Music Queue System in C]()
+
+## Data Structure and algorithms
+
+- [DSA in C++]()
+- [DSA in JavaScript]()
+- [DSA in Python]()
 
 ## Contributing
 
@@ -21,4 +30,3 @@ If you have a useful code snippet that you would like to contribute to this repo
 ## License
 
 This repository is licensed under the MIT license. See [LICENSE](./LICENSE) for more information.
-
