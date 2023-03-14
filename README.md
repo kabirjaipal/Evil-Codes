@@ -10,18 +10,20 @@ To use these code snippets, simply browse the repository and find the one that y
 
 ### JavaScript
 
-- [Calculating the size of an object in JavaScript](https://github.com/kabirsingh2004/Evil-Codes/blob/main/sizeofobj.js)
-- [ Discord Chat Bot Using Chat GPT ](https://github.com/kabirsingh2004/Evil-Codes/blob/main/chatgpt_discordbot.js)
+- [Codes Here](https://github.com/kabirsingh2004/Evil-Codes/tree/main/JavaScript)
+
+### Python
+
+- [Codes Here](https://github.com/kabirsingh2004/Evil-Codes/tree/main/Python)
 
 ### C/C++
 
-- [Music Queue System in C]()
+- [Codes Here](https://github.com/kabirsingh2004/Evil-Codes/tree/main/C%26C%2B%2B)
 
 ## Data Structure and algorithms
 
-- [DSA in C++]()
-- [DSA in JavaScript]()
-- [DSA in Python]()
+- [DSA in C++](https://github.com/kabirsingh2004/Evil-Codes/tree/main/C%26C%2B%2B/DSA)
+- [DSA in JavaScript](https://github.com/kabirsingh2004/Evil-Codes/tree/main/JavaScript/DSA)
 
 ## Contributing
 
